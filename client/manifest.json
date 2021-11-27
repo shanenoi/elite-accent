@@ -1,0 +1,29 @@
+{
+  "name": "Elite Accent",
+  "description": "How to pronounce in The Elite Accent",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/british.png",
+      "32": "/images/british.png",
+      "48": "/images/british.png",
+      "128": "/images/british.png"
+    }
+  },
+  "icons": {
+    "16": "/images/british.png",
+    "32": "/images/british.png",
+    "48": "/images/british.png",
+    "128": "/images/british.png"
+  }
+}
