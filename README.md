@@ -1,6 +1,6 @@
 # Elite Accent
 
-> After enjoy whole series of Harry Potter and Peaky Blinders, I perceive when interacting to each other, they used an accent radiates a more aristocratic than American Accent. So This extension was born with pronunciation practice purpose!
+> After enjoy whole series of Harry Potter, I perceive when interacting to each other, they used an accent radiates a more aristocratic than American Accent. So This extension was born with pronunciation practice purpose!
 
 ## If you recognize the subtlety in the accent of the British, You should try this one...
 
