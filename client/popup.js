@@ -19,7 +19,7 @@ const getSelectionText = () => {
 }
 
 const processVocabulary = async (word) => {
-  var data = await fetch(`http://127.0.0.1:3000/british/sound/${word}`, { "method": "GET", });
+  var data = await fetch(`http://127.0.0.1:2387/british/sound/${word}`, { "method": "GET", });
   var {data} = (await data.json()).data;
 
   console.log(data);
